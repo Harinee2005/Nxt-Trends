@@ -9,7 +9,7 @@ import './index.css'
 
 const Cart = () => (
   <CartContext.Consumer>
-    {value => {
+    {value => 
       const {cartList, removeAllCartItems} = value
       const showEmptyView = cartList.length === 0
 
