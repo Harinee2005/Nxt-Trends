@@ -1,0 +1,28 @@
+.order-total {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.price {
+  color: #171f46;
+  font-size: 20px;
+}
+
+.cart-items {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+
+@media screen and (min-width: 768px) {
+  .order-total {
+    font-size: 30px;
+  }
+  .price {
+    font-size: 30px;
+  }
+  .cart-items {
+    font-size: 22px;
+  }
+}
