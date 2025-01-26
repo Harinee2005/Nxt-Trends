@@ -1,4 +1,4 @@
-### E-Commerce Application  
+# E-Commerce Application  
 
 Welcome to the **E-Commerce Application**, a robust and feature-rich platform designed for seamless online shopping. The app includes advanced functionalities like user authentication, product categorization, filtering, search, sorting, and a best shopping experience with Prime and Non-Prime memberships.
 
